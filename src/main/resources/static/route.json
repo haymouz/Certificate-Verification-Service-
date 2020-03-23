@@ -1,0 +1,6 @@
+{
+	"csc":"http://localhost:8081/getStudentRecordMatno",
+	"phy":"http://localhost:8082/getStudentRecordMatno",
+	"geo":"http://localhost:8083/getStudentRecordMatno",
+	"mth":"http://localhost:8084/getStudentRecordMatno"	
+}
